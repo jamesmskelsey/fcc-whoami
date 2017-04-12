@@ -5,4 +5,4 @@ the callers ipaddress, language, and OS in a JSON object. Easy peasy, lemon sque
 
 This is very, very easy to do with express.
 
-Also deployed on heroku. Use [https://fcc-whoami-kelsey.herokuapp.com/](this link to see the app in action.)
+Also deployed on heroku. Use [this link to see the app in action.](https://fcc-whoami-kelsey.herokuapp.com/)
